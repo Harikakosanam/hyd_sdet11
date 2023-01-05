@@ -1,4 +1,4 @@
-package githubtest;
+package githubtest1;
 
 public class Test3 {
 
